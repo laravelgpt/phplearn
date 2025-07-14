@@ -1,0 +1,8 @@
+{
+  "name": "PHP Learning Editor-1",
+  "description": "An interactive PHP code editor with a simulated terminal and web view, powered by Gemini. Write PHP code, see the console output, and view the rendered HTML side-by-side.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
